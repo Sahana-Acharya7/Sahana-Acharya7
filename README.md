@@ -3,7 +3,7 @@
 ~/sahana-acharya $ cat README.md
 ```
 
-# Sahana Acharya
+# Sahana 
 ISE · RVCE Bangalore &nbsp;·&nbsp; Full Stack · AI/ML · IEEE Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-acharya77)
