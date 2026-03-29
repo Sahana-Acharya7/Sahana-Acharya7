@@ -140,7 +140,7 @@ Tools:        Groq LLM · Ollama · OpenStreetMap · Leaflet.js
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahana-Acharya7&theme=dark)](https://github.com/Sahana-Acharya7)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana-Acharya7&theme=dark&layout=compact&hide_border=true)](https://github.com/Sahana-Acharya7)
+
 
 </div>
 
