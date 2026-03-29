@@ -51,61 +51,56 @@ Tools:        Groq LLM · Ollama · OpenStreetMap · Leaflet.js
 ---
 
 ##  Featured Projects
-### 🌾 [GovChat](https://github.com/Sahana-Acharya7/GovChat) — AI E-Governance Portal
+<div align="center">
 
-> Full-stack citizen-government collaboration platform for rural Karnataka
+<table>
+<tr>
+<td width="50%">
 
-**Key Features:**
--  RAG-based conversational AI with Kannada + English voice support (STT → AI → TTS)
--  Vision Transformer auto-classifies civic issue images and routes to correct departments
--  Geospatial heatmaps, role-based dashboards, and tamper-proof resolution tracking
--  Serves rural Karnataka communities with multilingual support
+### 🌾 GovChat
+AI e-governance portal for rural Karnataka — RAG chat, Kannada/English voice, ViT image classification, geospatial dashboards
 
-**Stack:** `Next.js` `Django REST` `PostgreSQL` `Flutter` `Leaflet.js` `Ollama` `ViT` `Docker`
+`Next.js` `Django` `Flutter` `Ollama` `ViT` `PostgreSQL` `Docker`
 
----
+[View →](https://github.com/Sahana-Acharya7/GovChat)
 
-###  [Smart Pantry Manager](https://github.com/Sahana-Acharya7/Smart-Pantry-Manager-App) — AI-Driven Inventory System
+</td>
+<td width="50%">
 
-> Reduced food waste by **30%** using predictive LSTM modeling
+### 🍱 Smart Pantry Manager
+LSTM-based shelf-life prediction · **30% less food waste** · 500+ users · 94% accuracy
 
-**Impact:** 500+ active users | 94% accuracy | <100ms latency
+`Flutter` `Firebase` `TensorFlow Lite` `Redis` `Python`
 
-**Key Features:**
--  LSTM-based food shelf-life prediction
--  Real-time synchronization for shared pantries
--  Distributed locking mechanism with Redis
--  IoT sensor integration
+[View →](https://github.com/Sahana-Acharya7/Smart-Pantry-Manager-App)
 
-**Stack:** `Flutter` `Firebase` `TensorFlow Lite` `Python` `LSTM` `Redis` `Dart`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🏗️ SCWM Intelligence
+YOLOv8 waste detection + second-hand reuse marketplace with Groq LLM sustainability insights
 
-###  [SCWM Intelligence](https://github.com/Sahana-Acharya7/scwm) — Smart Construction Waste Management
+`FastAPI` `YOLOv8` `Groq LLM` `React` `Supabase`
 
-> AI-powered waste detection with second-hand marketplace for creative reuse
+[View →](https://github.com/Sahana-Acharya7/scwm)
 
-**Key Features:**
--  YOLOv8 real-time waste detection with confidence scoring
--  Groq LLM for sustainability insights and environmental impact analysis
--  Second-hand marketplace for material reuse (tiles, e-waste, etc.)
--  Persistent storage and scan history tracking
+</td>
+<td width="50%">
 
-**Stack:** `FastAPI` `YOLOv8` `Supabase` `Groq LLM` `React` `Computer Vision`
+### 🔍 Lost & Found
+RBAC portal with two-step ownership verification and admin-mediated claim workflows
 
----
+`Flask` `PostgreSQL` `Python` `Werkzeug`
 
-###  [Lost & Found Management](https://github.com/Sahana-Acharya7/Lost-Found-Management) — DBMS Project
+[View →](https://github.com/Sahana-Acharya7/Lost-Found-Management)
 
-> Database-driven lost and found portal with full CRUD operations
+</td>
+</tr>
+</table>
 
-**Key Features:**
--  Secure role-based access control (RBAC)
--  Two-step ownership verification system
--  Admin-mediated claim processing
--  Comprehensive claim management workflows
-
-**Stack:** `Python` `Flask` `PostgreSQL` `SQLite` `HTML/CSS` `Werkzeug`
+</div>
 
 ---
 ##  Achievements
