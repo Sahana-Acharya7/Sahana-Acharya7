@@ -75,7 +75,7 @@ Cloud:        AWS (basics) · Firebase · Render
 
 <div align="center">
 
-![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahana-Acharya7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahana-Acharya7&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana-Acharya7&layout=compact&theme=github_dark&hide_border=true)
 
