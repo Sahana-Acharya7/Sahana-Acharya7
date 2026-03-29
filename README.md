@@ -1,9 +1,7 @@
-<div align="center">
-```
-~/sahana $ cat README.md
-```
+![](./header.svg)
 
-# Sahana 
+<div align="center">
+
 ISE · RVCE Bangalore &nbsp;·&nbsp; Full Stack · AI/ML · IEEE Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-acharya77)
