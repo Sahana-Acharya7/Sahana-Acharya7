@@ -20,17 +20,6 @@
 
 ---
 
-##  Quick Navigation
-
-- [ Published Research](#-published-research)
-- [ Tech Stack](#-tech-stack)
-- [ Featured Projects](#-featured-projects)
-- [ Achievements](#-achievements)
-- [ GitHub Activity](#-github-activity)
-- [ Currently](#-currently)
-- [ Let's Connect](#-lets-connect)
-
----
 
 ##  Published Research
 
@@ -40,7 +29,7 @@
 
 Engineered an LSTM-based food shelf-life prediction model integrated with IoT sensors and a real-time synchronization layer for shared pantry management. Handled concurrent updates across 500+ active users with a distributed locking mechanism using Redis.
 
-**Impact:** 30% food waste reduction | 500+ active users | 94% model accuracy
+**Impact:** 30% food waste reduction | 94% model accuracy
 
 `LSTM` `TensorFlow Lite` `Flutter` `Firebase` `IoT` `Redis` `NoSQL`
 
