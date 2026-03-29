@@ -94,8 +94,7 @@ Cloud:        AWS (basics) · Firebase · Render
 
 *"Building systems that work for people, not just on paper."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sahana-Acharya7&color=00d4aa&style=flat-square)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahana-Acharya7&theme=dark&show_icons=true&include_all_commits=true&hide_border=true)
 </div>
 
 <!--
