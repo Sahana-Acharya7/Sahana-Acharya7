@@ -1,6 +1,6 @@
 <div align="center">
 ```
-~/sahana-acharya $ cat README.md
+~/sahana $ cat README.md
 ```
 
 # Sahana 
