@@ -31,7 +31,7 @@ Engineered an LSTM-based food shelf-life prediction model integrated with IoT se
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ```yaml
 Languages:    Python · Dart · TypeScript · JavaScript · Java · C
@@ -45,9 +45,9 @@ Cloud:        AWS (basics) · Firebase · Render
 
 ---
 
-## 🔬 Featured Projects
+##  Featured Projects
 
-### 🏛️ [GovChat](https://github.com/Sahana-Acharya7/GovChat) — AI E-Governance Portal
+###  [GovChat](https://github.com/Sahana-Acharya7/GovChat) — AI E-Governance Portal
 > Full-stack citizen-government collaboration platform for rural Karnataka
 
 - RAG-based conversational AI with Kannada + English voice support (STT → AI → TTS)
@@ -57,14 +57,14 @@ Cloud:        AWS (basics) · Firebase · Render
 
 ---
 
-### 🏗️ [SCWM Intelligence](https://github.com/Sahana-Acharya7/scwm) — Smart Construction Waste Management
+###  [SCWM Intelligence](https://github.com/Sahana-Acharya7/scwm) — Smart Construction Waste Management
 > AI-driven waste classification and management system
 
 - Stack: `TypeScript` `React` `ML Classification`
 
 ---
 
-### 🔍 [Lost & Found Management](https://github.com/Sahana-Acharya7/Lost-Found-Management) — DBMS Project
+###  [Lost & Found Management](https://github.com/Sahana-Acharya7/Lost-Found-Management) — DBMS Project
 > Database-driven lost and found portal with full CRUD operations
 
 - Stack: `HTML` `PostgreSQL`
@@ -83,12 +83,12 @@ Cloud:        AWS (basics) · Firebase · Render
 
 ---
 
-## 🎯 Currently
+##  Currently
 
-- 📚 6th Semester @ RVCE — Information Science & Engineering
-- 🔭 Building AI-integrated full stack applications
-- 📡 Exploring workflow automation with n8n and LLM pipelines
-- 🌱 Open to internship and research collaboration opportunities
+-  6th Semester @ RVCE — Information Science & Engineering
+-  Building AI-integrated full stack applications
+-  Exploring workflow automation with n8n and LLM pipelines
+-  Open to internship and research collaboration opportunities
 
 ---
 
