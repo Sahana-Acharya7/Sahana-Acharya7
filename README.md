@@ -1,4 +1,4 @@
-![](./header.svg)
+![](https://raw.githubusercontent.com/Sahana-Acharya7/Sahana-Acharya7/main/header.svg)
 
 <div align="center">
 
