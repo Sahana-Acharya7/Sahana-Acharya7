@@ -66,24 +66,13 @@ Tools:        Groq LLM · Ollama · OpenStreetMap · Leaflet.js
 -  Building AI-integrated full stack applications
 -  Exploring workflow automation with n8n and LLM pipelines
 -  Conducting AI research in food supply chain optimization
--  Open to internship and research collaboration opportunities
-
----
-
-## 💬 Let's Connect
-
-I'm passionate about building **intelligent systems for social impact**. If you're interested in collaborating on AI, full-stack development, or research—let's talk!
-
- **Email:** [sahanasheshadri51@gmail.com](mailto:sahanasheshadri51@gmail.com)  
- **LinkedIn:** [sahana-acharya77](https://www.linkedin.com/in/sahana-acharya77)  
- **Portfolio:** [sahanaacharya-portfolio.vercel.app](https://sahanaacharya-portfolio.vercel.app/)  
- **GitHub:** [@Sahana-Acharya7](https://github.com/Sahana-Acharya7)
+-  Open to internship and research collaboration opportunitie
 
 ---
 
 <div align="center">
 
-*"Building systems that work for people, not just on paper."* 🚀
+*"Building systems that work for people, not just on paper."* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahana-Acharya7&color=00d4aa&style=flat-square)
 
