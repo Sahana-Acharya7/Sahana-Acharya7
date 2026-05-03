@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-███████╗ █████╗ ██╗  ██╗ █████╗ ███╗   ██╗ █████╗
-██╔════╝██╔══██╗██║  ██║██╔══██╗████╗  ██║██╔══██╗
-███████╗███████║███████║███████║██╔██╗ ██║███████║
-╚════██║██╔══██║██╔══██║██╔══██║██║╚██╗██║██╔══██║
-███████║██║  ██║██║  ██║██║  ██║██║ ╚████║██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+Hello I am Sahana 
 
 ### Information Science & Engineering · RV College of Engineering, Bangalore
 **Full Stack Developer · AI/ML Enthusiast · Published IEEE Researcher**
